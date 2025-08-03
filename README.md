@@ -1,4 +1,4 @@
-# Simulaco-de-Morfog-nese
+# Simulacao-de-Morfogenese
 Repositório para o projeto da disciplina Cellular Automata de Jonas Albuquerque, UFRPE
 
 
